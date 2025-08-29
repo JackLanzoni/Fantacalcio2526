@@ -58,6 +58,7 @@ Il workflow va dal data scraping fino alla visualizzazione dei risultati, dimost
 
 👤 Autore
 
-[Il tuo nome]
+Giacomo Lanzoni
+
 	•	LinkedIn: https://www.linkedin.com/in/giacomo-lanzoni-766a3821/
 	•	GitHub: https://github.com/JackLanzoni/Fantacalcio2526
